@@ -568,6 +568,9 @@
   display: none;
 }
 @media screen and (min-width: 789px) {
+  #es-decros.es-decros .es-bottle__img--mobile {
+    display: none;
+  }
   #es-decros.es-decros .es-kv__text {
     margin-bottom: 0;
     padding-left: 30px;
